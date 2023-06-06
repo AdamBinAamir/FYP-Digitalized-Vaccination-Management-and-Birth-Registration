@@ -1,0 +1,59 @@
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:14: Warning: Redundant label can be removed [RedundantLabel]
+        android:label="@string/app_name"
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "RedundantLabel":
+   When an activity does not have a label attribute, it will use the one from
+   the application tag. Since the application has already specified the same
+   label, the label on this activity can be omitted.
+
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:10: Warning: The attribute android:allowBackup is deprecated from Android 12 and higher and may be removed in future versions. Consider adding the attribute android:dataExtractionRules specifying an @xml resource which configures cloud backups and device transfers on Android 12 and higher. [DataExtractionRules]
+      android:allowBackup="false"
+                           ~~~~~
+
+   Explanation for issues of type "DataExtractionRules":
+   Before Android 12, the attributes android:allowBackup and
+   android:fullBackupContent were used to configure all forms of backup,
+   including cloud backups, device-to-device transfers and adb backup.
+
+   In Android 12 and higher, these attributes have been deprecated and will
+   only apply to cloud backups. You should instead use the attribute
+   android:dataExtractionRules, specifying an @xml resource that configures
+   which files to back up, for cloud backups and for device-to-device
+   transfers, separately. If your minSdkVersion supports older versions,
+   you'll still want to specify an android:fullBackupContent resource if the
+   default behavior is not right for your app.
+
+   https://developer.android.com/about/versions/12/backup-restore#xml-changes
+
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\build.gradle: Warning: The resource R.integer.react_native_dev_server_port appears to be unused [UnusedResources]
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\build.gradle: Warning: The resource R.integer.react_native_inspector_proxy_port appears to be unused [UnusedResources]
+
+   Explanation for issues of type "UnusedResources":
+   Unused resources make applications larger and slow down builds.
+
+   The unused resource check can ignore tests. If you want to include
+   resources that are only referenced from tests, consider packaging them in a
+   test source set instead.
+
+   You can include test sources in the unused resource check by setting the
+   system property lint.unused-resources.include-tests=true, and to exclude
+   them (usually for performance reasons), use
+   lint.unused-resources.exclude-tests=true.
+
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\res\mipmap-hdpi\ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\res\mipmap-mdpi\ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\res\mipmap-xhdpi\ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png: Warning: Launcher icons should not fill every pixel of their square region; see the design guide for details [IconLauncherShape]
+
+   Explanation for issues of type "IconLauncherShape":
+   According to the Android Design Guide
+   (https://material.io/design/iconography/) your launcher icons should "use a
+   distinct silhouette", a "three-dimensional, front view, with a slight
+   perspective as if viewed from above, so that users perceive some depth."
+
+   The unique silhouette implies that your launcher icon should not be a
+   filled square.
+
+0 errors, 9 warnings

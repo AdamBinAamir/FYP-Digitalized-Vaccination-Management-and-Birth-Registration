@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+MERGED from [:react-native-async-storage_async-storage] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:hermes-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\849a924f52d22a13f08673cee2c84d2f\transformed\jetified-hermes-android-0.71.3-release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-reanimated\android\build\.transforms\3b22b4ae90c11983ca028cc59d68da6c\transformed\jetified-react-native-reanimated-71-hermes\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\cf3e87f90bc224b4ba6f2125fa5fbafb\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9ca989985cc8cf4eced6698292fc9d76\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\60b10065a378a2f41a7170ab2d1e5d94\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\1d5150506f32887656601f9c709c161e\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9e5e839233411feb518df300f8533dec\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9514bd099fb34fb6eea253311c65a84d\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\e6d11c8cdb42a43c9cc9246702c02313\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\5f3913be07b3a901c44016214c455ec4\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\f38c65927ffe2b86c1436d8e7fc7a216\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\809286a24cd6c56732ddb0f9d995f7f4\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\58d0f6bfe28bd2fc80d3ad948b0e8fa0\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\44cfa790d4d6bb73dd32b824ba9c3203\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\228d98173b2b9ea71d1491a37cb50062\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9215a0156bb67519c47488b972d92fe6\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+	package
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:7:7-39
+	android:roundIcon
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:11:7-38
+	android:name
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:6:7-38
+activity#com.healthinfo.MainActivity
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:12:7-23:18
+	android:label
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:16:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:15:9-118
+	android:name
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\849a924f52d22a13f08673cee2c84d2f\transformed\jetified-hermes-android-0.71.3-release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.3] C:\Users\Adam\.gradle\caches\transforms-3\849a924f52d22a13f08673cee2c84d2f\transformed\jetified-hermes-android-0.71.3-release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-reanimated\android\build\.transforms\3b22b4ae90c11983ca028cc59d68da6c\transformed\jetified-react-native-reanimated-71-hermes\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\node_modules\react-native-reanimated\android\build\.transforms\3b22b4ae90c11983ca028cc59d68da6c\transformed\jetified-react-native-reanimated-71-hermes\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\cf3e87f90bc224b4ba6f2125fa5fbafb\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\cf3e87f90bc224b4ba6f2125fa5fbafb\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9ca989985cc8cf4eced6698292fc9d76\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9ca989985cc8cf4eced6698292fc9d76\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\60b10065a378a2f41a7170ab2d1e5d94\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\60b10065a378a2f41a7170ab2d1e5d94\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\1d5150506f32887656601f9c709c161e\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\1d5150506f32887656601f9c709c161e\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9e5e839233411feb518df300f8533dec\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9e5e839233411feb518df300f8533dec\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9514bd099fb34fb6eea253311c65a84d\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9514bd099fb34fb6eea253311c65a84d\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\e6d11c8cdb42a43c9cc9246702c02313\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\e6d11c8cdb42a43c9cc9246702c02313\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\5f3913be07b3a901c44016214c455ec4\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\5f3913be07b3a901c44016214c455ec4\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\f38c65927ffe2b86c1436d8e7fc7a216\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\f38c65927ffe2b86c1436d8e7fc7a216\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\809286a24cd6c56732ddb0f9d995f7f4\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\809286a24cd6c56732ddb0f9d995f7f4\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\58d0f6bfe28bd2fc80d3ad948b0e8fa0\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\58d0f6bfe28bd2fc80d3ad948b0e8fa0\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\44cfa790d4d6bb73dd32b824ba9c3203\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\44cfa790d4d6bb73dd32b824ba9c3203\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\228d98173b2b9ea71d1491a37cb50062\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\228d98173b2b9ea71d1491a37cb50062\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9215a0156bb67519c47488b972d92fe6\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Adam\.gradle\caches\transforms-3\9215a0156bb67519c47488b972d92fe6\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml

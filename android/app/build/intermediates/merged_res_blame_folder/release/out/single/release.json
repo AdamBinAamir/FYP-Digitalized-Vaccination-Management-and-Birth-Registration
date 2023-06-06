@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.healthinfo.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_src_assets_gear.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/src_assets_gear.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_src_assets_user.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/src_assets_user.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.healthinfo.app-main-30:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_src_assets_certificate.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/src_assets_certificate.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_src_assets_syringe.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/src_assets_syringe.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_src_assets_home.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/src_assets_home.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_src_assets_logonobackground.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/src_assets_logonobackground.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.healthinfo.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.healthinfo.app-merged_res-29:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.healthinfo.app-react-24:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    }
+]

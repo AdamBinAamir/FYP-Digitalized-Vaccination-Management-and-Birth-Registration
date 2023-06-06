@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.healthinfo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:3:22-64
+13
+14    <application
+14-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:5:5-24:19
+15        android:name="com.healthinfo.MainApplication"
+15-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:6:7-38
+16        android:allowBackup="false"
+16-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:10:7-34
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:8:7-41
+19        android:label="@string/app_name"
+19-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:7:7-39
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:9:7-52
+21        android:theme="@style/AppTheme"
+21-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:11:7-38
+22        android:usesCleartextTraffic="true" >
+22-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\debug\AndroidManifest.xml:8:9-44
+23        <activity
+23-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\debug\AndroidManifest.xml:11:9-111
+24            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+24-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\debug\AndroidManifest.xml:11:19-83
+25            android:exported="false" />
+25-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\debug\AndroidManifest.xml:11:84-108
+26        <activity
+26-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:12:7-23:18
+27            android:name="com.healthinfo.MainActivity"
+27-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:13:9-37
+28            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+28-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:15:9-118
+29            android:exported="true"
+29-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:18:9-32
+30            android:label="@string/app_name"
+30-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:14:9-41
+31            android:launchMode="singleTask"
+31-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:16:9-40
+32            android:windowSoftInputMode="adjustResize" >
+32-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:17:9-51
+33            <intent-filter>
+33-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:19:9-22:25
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:20:13-65
+34-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:20:21-62
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:21:13-73
+36-->C:\Users\Adam\Documents\8thSemester\fypmobilecode - Copy\android\app\src\main\AndroidManifest.xml:21:23-70
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>
